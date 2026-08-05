@@ -35,7 +35,7 @@ philosophy: "Automate everything that can be automated."
 
 I'm currently building hands-on experience in **CI/CD pipeline automation**, **containerization**, and **cloud infrastructure management**. I enjoy turning manual, repetitive deployment workflows into clean, automated, GitOps-driven pipelines — and I'm actively growing my footprint across AWS and Kubernetes-based cloud-native systems.
 
-📄 Research paper published at **NCML 2025** &nbsp;•&nbsp; 🏅 **Microsoft Azure Fundamentals (AZ-900)** certified — 985/1000 &nbsp;•&nbsp; 🌱 Active open-source contributor
+📄 Research paper published at **NCML 2025** · 🏅 **Microsoft Azure Fundamentals (AZ-900)** certified - 985/1000 · 🌱 Active open-source contributor
 
 ---
 
@@ -100,7 +100,7 @@ I'm currently building hands-on experience in **CI/CD pipeline automation**, **c
 <td width="50%" valign="top">
 
 ### 🟦 Microsoft Certified: Azure Fundamentals
-**Credential:** AZ-900 &nbsp;|&nbsp; **Score:** 985 / 1000 ✅
+**Credential:** AZ-900 | **Score:** 985 / 1000 ✅
 
 - Practical knowledge of Azure VMs, Storage, Azure AD, and Virtual Networks
 - Hands-on cloud deployment, identity management, and resource provisioning
