@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c6ff&height=220&section=header&text=MUGESH%20RAJ%20V&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Cloud%20%26%20DevOps%20Engineer&descAlignY=58&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0f2027,50:2c5364,100:00c6ff&amp;height=220&amp;section=header&amp;text=MUGESH%20RAJ%20V&amp;fontSize=48&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=Cloud%20%26%20DevOps%20Engineer&amp;descAlignY=58&amp;descSize=20" width="100%"/>
 
 <br/>
 
@@ -143,7 +143,7 @@ Full-stack healthcare management system for patients, appointments, and medical 
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
 
-🔗 `[add repo link here]` &nbsp;|&nbsp; 🌐 `[add demo link here]`
+🔗 `[add repo link here]` | 🌐 `[add demo link here]`
 
 </td>
 <td width="33%" valign="top">
@@ -257,7 +257,7 @@ $ echo $CURRENTLY_LEARNING
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,50:2c5364,100:0f2027&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:00c6ff,50:2c5364,100:0f2027&amp;height=120&amp;section=footer"/>
 
 **📫 Let's connect**
 
