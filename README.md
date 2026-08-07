@@ -190,40 +190,43 @@ Frontend, backend, and database components deployed as a fully orchestrated 3-ti
 
 ---
 
-## 📊 Graphs & Metrics
-
 <div align="center">
+
+<h2>📊 GitHub Analytics</h2>
+
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mugesh2024rj&theme=tokyonight"/>
+
+<br><br>
 
 <table>
 <tr>
 <td width="50%">
-<img src="https://github-readme-stats.vercel.app/api?username=Mugesh2024rj&amp;show_icons=true&amp;theme=tokyonight&amp;bg_color=0f2027&amp;title_color=00c6ff&amp;icon_color=00c6ff&amp;text_color=c9d1d9&amp;border_color=2c5364&amp;hide_border=false" width="100%"/>
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mugesh2024rj&theme=tokyonight"/>
 </td>
+
 <td width="50%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mugesh2024rj&amp;layout=compact&amp;theme=tokyonight&amp;bg_color=0f2027&amp;title_color=00c6ff&amp;text_color=c9d1d9&amp;border_color=2c5364&amp;hide_border=false" width="100%"/>
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mugesh2024rj&theme=tokyonight"/>
 </td>
 </tr>
+
 <tr>
 <td width="50%">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Mugesh2024rj&amp;theme=tokyonight&amp;background=0f2027&amp;stroke=2c5364&amp;ring=00c6ff&amp;fire=00c6ff&amp;currStreakLabel=00c6ff&amp;hide_border=true" width="100%"/>
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mugesh2024rj&theme=tokyonight"/>
 </td>
+
 <td width="50%">
-<img src="https://github-readme-trophies.vercel.app/?username=Mugesh2024rj&amp;theme=tokyonight&amp;no-frame=true&amp;margin-w=8&amp;margin-h=8&amp;column=3" width="100%"/>
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Mugesh2024rj&theme=tokyonight&utcOffset=5.5"/>
 </td>
 </tr>
 </table>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mugesh2024rj&amp;theme=tokyo-night&amp;bg_color=0f2027&amp;color=00c6ff&amp;line=00c6ff&amp;point=ffffff&amp;area=true&amp;hide_border=true" width="100%"/>
+<br>
 
-<br/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Mugesh2024rj&theme=tokyo-night&bg_color=0f2027&color=00c6ff&line=00c6ff&point=ffffff&area=true&hide_border=true"/>
 
-### 🐍 Contribution Snake
+<br><br>
 
-<img src="https://raw.githubusercontent.com/Mugesh2024rj/Mugesh2024rj/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=Mugesh2024rj&amp;label=Profile%20Views&amp;color=00c6ff&amp;style=for-the-badge" />
+<img width="100%" src="https://raw.githubusercontent.com/Mugesh2024rj/Mugesh2024rj/output/github-contribution-grid-snake-dark.svg"/>
 
 </div>
 
