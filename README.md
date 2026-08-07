@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0f2027,50:2c5364,100:00c6ff&amp;height=220&amp;section=header&amp;text=MUGESH%20RAJ%20V&amp;fontSize=48&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=Cloud%20%26%20DevOps%20Engineer&amp;descAlignY=58&amp;descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=MUGESH%20RAJ%20V&fontColor=ffffff&color=0:0f2027,100:00c6ff"/>
 
 <br/>
 
